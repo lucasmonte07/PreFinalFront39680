@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "title": "ADIDAS",
+        "description": "blue",
+        "details": "bla bla bla",
+        "code": "ABC001",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "quantity": 1,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_681978-MLA70070327909_062023-W.webp"
+    },
+    {
+        "id": 2,
+        "title": "ADIDAS",
+        "description": "white",
+        "details": "bla bla bla",
+        "code": "ABC002",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "quantity": 1,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_681978-MLA70070327909_062023-W.webp"
+    },
+    {
+        "id": 3,
+        "title": "ADIDAS",
+        "description": "red",
+        "details": "bla bla bla",
+        "code": "ABC003",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "quantity": 1,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_681978-MLA70070327909_062023-W.webp"
+    }, 
+    {
+        "id": 4,
+        "title": "ADIDAS",
+        "description": "black",
+        "details": "bla bla bla",
+        "code": "ABC004",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "quantity": 1,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_681978-MLA70070327909_062023-W.webp"
+    },
+    {
+        "id": 5,
+        "title": "ADIDAS",
+        "description": "beige",
+        "details": "bla bla bla",
+        "code": "ABC005",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "quantity": 1,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_681978-MLA70070327909_062023-W.webp"
+    },
+    {
+        "id": 6,
+        "title": "ADIDAS",
+        "description": "yellow",
+        "details": "bla bla bla",
+        "code": "ABC006",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "quantity": 1,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_681978-MLA70070327909_062023-W.webp"
+    }, 
+    {
+        "id": 7,
+        "title": "ADIDAS",
+        "description": "green",
+        "details": "bla bla bla",
+        "code": "ABC007",
+        "price": 15000,
+        "status": true ,    
+        "stock": 25,
+        "category": "calzado",
+        "quantity": 1,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_681978-MLA70070327909_062023-W.webp"
+    }
+]

@@ -1,0 +1,99 @@
+.Todo
+{
+    display: grid;
+    grid-template-columns: 15% 70% 15%;
+}
+
+.Titulo
+{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+.Nave
+{
+    width: 100%;
+    height: 100px;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Carrito
+{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-size: 35px;
+}
+
+.active
+{        
+    color: cyan;
+    font-size: 30px; 
+    text-decoration: none;    
+}
+
+.desactive
+{
+    color: white; 
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.lista
+{    
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    list-style: none;   
+    margin-top: 15px;     
+}
+
+.lista li
+{    
+    margin: 15px;     
+}
+
+.lista li:hover
+{
+    background-color: darkgray;
+}
+
+.contador
+{
+    background-color: cyan;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    right: 0;
+    position: absolute;
+    margin-top: 10px;
+    margin-right: 80px;
+    color: darkblue;
+}
+
+.ctapos
+{
+    display: flex;
+    font-size: 20px;    
+    color: black;
+    margin-top: 2px;
+    margin-left: 4px;
+}
+
+.linkCart {
+    color: white;
+    font-size: 30px;
+}
